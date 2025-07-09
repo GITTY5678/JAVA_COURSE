@@ -1,5 +1,5 @@
 public class Demo{
-    public string[] getStringArray() {
-        return new String[] {"Hello", "World"};
+    public void getStringArray() {
+        System.out.println("hello world over");
     }
 }
